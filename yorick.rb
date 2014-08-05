@@ -1,1 +1,1 @@
-print Come hither, hostess.
+print "Come hither, hostess."
